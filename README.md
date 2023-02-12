@@ -1,4 +1,4 @@
-# MachineLearningLesson
+# Recognizing classical composers in untrained data
 
 This project performs music genre classification using machine learning techniques. The steps involved in this project are:
 
