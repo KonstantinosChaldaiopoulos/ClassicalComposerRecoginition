@@ -12,7 +12,7 @@ This project performs music genre classification using machine learning techniqu
 8) Testing the model with new data and calculating accuracy and F1 score.
 
 ## Prerequisites
-1) Python 3.7 or higher
+1) Python 3.8 or higher
 2) pandas, numpy, pyAudioAnalysis, scikit-learn, scipy
 
 ## Steps to Run the Code
