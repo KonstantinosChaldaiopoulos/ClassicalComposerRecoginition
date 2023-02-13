@@ -27,7 +27,7 @@ fonttools==4.38.0
 fqdn==1.5.1
 hmmlearn==0.2.8
 idna==3.4
-ipykernel==6.20.1
+ipykernel==6.16.2
 imbalanced-learn==0.10.1
 imblearn==0.0
 ipython==8.8.0
