@@ -6,4 +6,7 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  -pyAudioAnalysis
+  -scikit-learn
+  -scipy
   
