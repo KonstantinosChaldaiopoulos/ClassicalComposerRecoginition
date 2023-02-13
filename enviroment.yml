@@ -1,8 +1,9 @@
-# environment.yml
+name: myenv
 channels:
-- conda-forge
+  - conda-forge
 dependencies:
-- python =3.8
-- pip
-- pip:
-  - py-entangle
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  
