@@ -45,7 +45,7 @@ jupyter-events==0.6.2
 jupyter_client==7.4.8
 jupyter_core>=4
 jupyter_server>=1.15
-jupyter_server_terminals==0.4.4
+jupyter_server_terminals>=0.1
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 kiwisolver==1.4.4
