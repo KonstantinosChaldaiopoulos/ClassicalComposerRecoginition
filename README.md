@@ -11,6 +11,9 @@ This project performs music genre classification using machine learning techniqu
 7) Performing 10-fold shuffle split cross-validation on the training data to evaluate the performance of the classifier.
 8) Testing the model with new data and calculating accuracy and F1 score.
 
+An example of the outputs can be found here:
+https://nbviewer.org/github/KonstantinosChaldaiopoulos/ClassicalComposerRecoginition/blob/main/Demo.ipynb
+
 ## Prerequisites
 1) Python 3.8 or higher
 2) pandas, numpy, pyAudioAnalysis, scikit-learn, scipy
