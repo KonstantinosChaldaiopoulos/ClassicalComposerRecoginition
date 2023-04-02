@@ -25,8 +25,10 @@ https://nbviewer.org/github/KonstantinosChaldaiopoulos/ClassicalComposerRecogini
 4) Create the audio files by changing the file paths and file names as required in the code. Run the first script multiple time in order to generate the files.
 5) Check the output for the F1 score and accuracy of the model.
 
+
 ## Notes 
-A powerpoint presentation that includes confusion matrices of the results is available.
+1) A powerpoint presentation that includes confusion matrices of the results is available.
+2) The audio files are not uploaded but the mid-term-featuresoutput is on the training-test directory.
 
 ## Authors
 This code was created by Konstantinos Chaldaiopoulos
