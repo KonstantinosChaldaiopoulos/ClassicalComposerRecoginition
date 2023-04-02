@@ -23,9 +23,10 @@ https://nbviewer.org/github/KonstantinosChaldaiopoulos/ClassicalComposerRecogini
 2) Run the code in Jupyter Notebook or Google Colab.
 3) Ensure that the audio files are in the specified directory.
 4) Create the audio files by changing the file paths and file names as required in the code. Run the first script multiple time in order to generate the files.
-5) An output example is given in the Training-Testing folder
-6) Run each cell in the code in order.
-7) Check the output for the F1 score and accuracy of the model.
+5) Check the output for the F1 score and accuracy of the model.
+
+## Notes 
+A powerpoint presentation that includes confusion matrices of the results is available.
 
 ## Authors
 This code was created by Konstantinos Chaldaiopoulos
